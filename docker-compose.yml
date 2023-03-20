@@ -22,7 +22,6 @@ services:
     # Pass in your config file below, by specifying the path on your host machine
     volumes:
       - public-dashy:/app/public
-      - item-icons-dashy:/app/public/item-icons
 
     # Set port that web service will be served on. Keep container port as 80
 #    ports:
@@ -48,4 +47,3 @@ services:
 
 volumes:
   public-dashy:
-  item-icons-dashy:
