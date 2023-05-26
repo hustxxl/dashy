@@ -34,7 +34,7 @@ Dashy has support for displaying dynamic content in the form of widgets. There a
   - [NASA APOD](#astronomy-picture-of-the-day)
   - [GitHub Trending](#github-trending)
   - [GitHub Profile Stats](#github-profile-stats)
-  - [Healthchecks Status](#healthchecks status)
+  - [Healthchecks Status](#healthchecks-status)
   - [Mvg Departure](#mvg-departure)
   - [Mvg Connection](#mvg-connection)
 - **[Self-Hosted Services Widgets](#self-hosted-services-widgets)**
@@ -219,6 +219,7 @@ Display news and updates from any RSS-enabled service.
 **`limit`** | `number` |  _Optional_ | The number of posts to return. If you haven't specified an API key, this will be limited to 10
 **`orderBy`** | `string` |  _Optional_ | How results should be sorted. Can be either `pubDate`, `author` or `title`. Defaults to `pubDate`
 **`orderDirection`** | `string` |  _Optional_ | Order direction of feed items to return. Can be either `asc` or `desc`. Defaults to `desc`
+**`parseLocally`** | `boolean`     |  _Optional_ | If true parse the rss feed locally instead of using the rss2json API.
 
 #### Example
 
@@ -2379,12 +2380,19 @@ You'll need to enable the sensors plugin to use this widget, using: `--enable-pl
 
 <p align="center"><img width="400" src="https://i.ibb.co/xSs4Gqd/gl-cpu-temp.png" /></p>
 
+#### Options
+
+**Field** | **Type** | **Required** | **Description**
+--- | --- | --- | ---
+**`units`** | `string` |  _Optional_ | Use `C` to display temperatures in Celsius or `F` to use Fahrenheit. Defaults to `C`.
+
 #### Example
 
 ```yaml
 - type: gl-cpu-temp
   options:
     hostname: http://192.168.130.2:61208
+    units: C
 ```
 
 ---

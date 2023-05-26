@@ -7,6 +7,7 @@ Begin <support@begin.com> - 1 commits
 Bjorn Lammers <walkxnl@gmail.com> - 1 commits
 Bumsoo Kim <bskim45@gmail.com> - 1 commits
 BySempron <barquin_rkz@hotmail.com> - 1 commits
+Chris Nielsen <nielsen.chris@gmail.com> - 1 commits
 David <skaarj1989@gmail.com> - 1 commits
 Dawid Pietrykowski <d.pietrykowski16@gmail.com> - 1 commits
 DeepSource Bot <bot@deepsource.io> - 1 commits
@@ -16,6 +17,7 @@ Doug Lock <doug@douglock.co.uk> - 1 commits
 Dylan-Bs <35694107+Dylan-Bs@users.noreply.github.com> - 1 commits
 Erwan Miran <emiran.ext@orange.com> - 1 commits
 FormatToday <616099456@qq.com> - 1 commits
+Garrett Brown <gdbrown09@gmail.com> - 1 commits
 Ian Neal <wopr@wopr.tech> - 1 commits
 Iaroslav Dronskii <iaroslav@dronskii.ru> - 1 commits
 Ishan Jain <ishan@jain.se> - 1 commits
@@ -24,6 +26,7 @@ Jeremy Chauvin <jeremychauvin10@gmail.com> - 1 commits
 Kieran Eglin <kieran.eglin@gmail.com> - 1 commits
 Kieren Connell <Kieren@kierenconnell.com> - 1 commits
 Leonardo Colman Lopes <leonardo.dev@colman.com.br> - 1 commits
+Luis Pabon <luis.pabon@auronconsulting.co.uk> - 1 commits
 M Asenov <m.assenov@gmail.com> - 1 commits
 Markus Krause <Krause.Markus@gmx.com> - 1 commits
 Maxime Moreillon <m.moreillon@gmail.com> - 1 commits
@@ -41,9 +44,11 @@ Smexhy <roman.bartik@icloud.com> - 1 commits
 Steffen Schmidt <service.github@nocer.net> - 1 commits
 Steven Kast <steven.m.kast@gmail.com> - 1 commits
 Xert <xertdev@gmail.com> - 1 commits
+baifengheixi <98794233+baifengheixi@users.noreply.github.com> - 1 commits
 deepsource-io[bot] <deepsource-io[bot]@users.noreply.github.com> - 1 commits
 dr460nf1r3 <njcrypted@protonmail.com> - 1 commits
 flechaig <flechaig@users.noreply.github.com> - 1 commits
+huangshaohuai <huangshaohuai@163.com> - 1 commits
 icy-comet <50461557+icy-comet@users.noreply.github.com> - 1 commits
 imlonghao <github@esd.cc> - 1 commits
 jnach <33467747+jnach@users.noreply.github.com> - 1 commits
@@ -51,8 +56,11 @@ jrobles98 <jose98_21@hotmail.com> - 1 commits
 kxenox <floriandel@msn.com> - 1 commits
 laker j.v <la@laker.gay> - 1 commits
 pablomalo <paul.gouin50@gmail.com> - 1 commits
+poisonadder7 <github.com@loginz.uk> - 1 commits
 rtm516 <ryantmilner@hotmail.co.uk> - 1 commits
 soaibsafi <soaib.safi@gmail.com> - 1 commits
+ssrangisetti <46807508+ssrangisetti@users.noreply.github.com> - 1 commits
+ssrangisetti <ssrangisetti@protonmail.com> - 1 commits
 sur1v <gsuriv@gmail.com> - 1 commits
 tazboyz16 <tazboyz_16@yahoo.com> - 1 commits
 zcq100 <m@zcq100.com> - 1 commits
@@ -68,6 +76,7 @@ Dan Gilbert <ddg@daentech.co.uk> - 2 commits
 Ruben Silva <rubensilva945@gmail.com> - 2 commits
 Thomas Dissert <dissertthomas@gmail.com> - 2 commits
 cauterize <cauterize@programmer.net> - 2 commits
+hockeymikey <hockeymikey@hockeymikey.com> - 2 commits
 itsmejoeeey <9375730+itsmejoeeey@users.noreply.github.com> - 2 commits
 k073l <21180271+k073l@users.noreply.github.com> - 2 commits
 liss-bot <87835202+liss-bot@users.noreply.github.com> - 2 commits
@@ -108,11 +117,11 @@ EVOTk <45015615+EVOTk@users.noreply.github.com> - 24 commits
 Marcell Fülöp <marekful@protonmail.com> - 27 commits
 Alicia Sykes <alicia@futr.ai> - 28 commits
 Lissy93 <gh@d0h.co> - 78 commits
-snyk-bot <snyk-bot@snyk.io> - 78 commits
-repo-visualizer <repo-visualizer@users.noreply.github.com> - 79 commits
-Alicia Bot <87835202+liss-bot@users.noreply.github.com> - 148 commits
-liss-bot <liss-bot@d0h.co> - 156 commits
-Lissy93 <Lissy93@users.noreply.github.com> - 208 commits
-Alicia Sykes <alicia@omg.lol> - 293 commits
+snyk-bot <snyk-bot@snyk.io> - 79 commits
+repo-visualizer <repo-visualizer@users.noreply.github.com> - 87 commits
+Alicia Bot <87835202+liss-bot@users.noreply.github.com> - 163 commits
+liss-bot <liss-bot@d0h.co> - 169 commits
+Lissy93 <Lissy93@users.noreply.github.com> - 209 commits
+Alicia Sykes <alicia@omg.lol> - 307 commits
 Alicia Sykes <gh@d0h.co> - 440 commits
 Alicia Sykes <sykes.alicia@gmail.com> - 1488 commits

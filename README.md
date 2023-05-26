@@ -579,6 +579,13 @@ Huge thanks to the sponsors helping to support Dashy's development!
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/BillyAlt">
+            <img src="https://avatars.githubusercontent.com/u/6921141?v=4" width="80;" alt="BillyAlt"/>
+            <br />
+            <sub><b>BillyAlt</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/bmcgonag">
             <img src="https://avatars.githubusercontent.com/u/7346620?u=2a0f9284f3e12ac1cc15288c254d1ec68a5081e8&v=4" width="80;" alt="bmcgonag"/>
             <br />
@@ -587,7 +594,7 @@ Huge thanks to the sponsors helping to support Dashy's development!
     </td>
     <td align="center">
         <a href="https://github.com/vlad-timofeev">
-            <img src="https://avatars.githubusercontent.com/u/11474041?v=4" width="80;" alt="vlad-timofeev"/>
+            <img src="https://avatars.githubusercontent.com/u/11474041?u=eee43705b54d2ec9f51fc4fcce5ad18dd17c87e4&v=4" width="80;" alt="vlad-timofeev"/>
             <br />
             <sub><b>Vlad Timofeev</b></sub>
         </a>
@@ -605,13 +612,6 @@ Huge thanks to the sponsors helping to support Dashy's development!
             <br />
             <sub><b>DRXAquosus</b></sub>
         </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/YoungC0DE">
-            <img src="https://avatars.githubusercontent.com/u/68437256?u=f894d71c7565d2e6662b4477bad598f41a246252&v=4" width="80;" alt="YoungC0DE"/>
-            <br />
-            <sub><b>Rafael Anjos</b></sub>
-        </a>
     </td></tr>
 <tr>
     <td align="center">
@@ -626,6 +626,13 @@ Huge thanks to the sponsors helping to support Dashy's development!
             <img src="https://avatars.githubusercontent.com/u/96497997?v=4" width="80;" alt="jtfinley72"/>
             <br />
             <sub><b>Jtfinley72</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/baifengheixi">
+            <img src="https://avatars.githubusercontent.com/u/98794233?u=73763035da00be68ea05f3a577b96e47784bd748&v=4" width="80;" alt="baifengheixi"/>
+            <br />
+            <sub><b>Baifengheixi</b></sub>
         </a>
     </td></tr>
 </table>
